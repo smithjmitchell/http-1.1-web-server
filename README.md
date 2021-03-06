@@ -2,7 +2,7 @@
 _Project web server for processing HTTP/1.0 and HTTP/1.1 requests_
 
 ### Usage
-_Tested using GCC _v.7.4.0_ _& GNU make _v.4.1_
+_Tested using GCC v.7.4.0 && GNU make v.4.1_
 
 #### Compiling
 1. In terminal, `cd` to project root
